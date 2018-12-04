@@ -4,3 +4,4 @@
 
 ### 目录：
 1.[12月03号的作业，使用jupyter notebook写numpy，pandas，matplotlib的demo](1-1203.ipynb)
+2.[12月04号的作业，K近邻算法的原理，优缺点](2-1204.md)
